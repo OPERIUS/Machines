@@ -1,1 +1,5 @@
-# Machines
+![image](https://user-images.githubusercontent.com/62969752/221344617-4b6f32c3-5655-4d5a-aa1b-99d4406da6a3.png)
+
+O nosso modpack é atualizado regularmente com os melhores mods disponíveis na versão 1.12.2, levando em conta as opiniões e sugestões dos jogadores. Temos um time engajado de desenvolvedores que trabalham para garantir a melhor experiência possível.
+Com ele, você poderá explorar novas mecânicas, muitos outros biomas novos. Além disso, os crafts foram modificados para proporcionar um desafio ainda maior. A integração da agricultura mística com o mekanism também foi adicionada, tornando a jogabilidade muito mais emocionante. 
+Garantimos a compatibilidade através de vários testes realizados pela nossa equipe, e continuaremos a monitorar as atualizações de mods para escolher as que melhor se encaixam em nosso modpack. A quantidade mínima de RAM recomendada é de 3 GB, mas é recomendado 4 GB para uma jogabilidade normal, ou 4-8 GB para aqueles que utilizam Shaders, configurações de vídeo aumentadas, pacotes de recursos HD e/ou pacotes de sombreamento.
